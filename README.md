@@ -1,2 +1,2 @@
-"My first readme"
+Consistency is key
 
